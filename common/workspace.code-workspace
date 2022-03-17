@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "ui",
+			"path": "..\\ui"
+		},
+		{
+			"name": "api",
+			"path": "..\\api"
+		},
+		{
+			"name": ".github",
+			"path": "..\\.github"
+		},
+		{
+			"name": "common",
+			"path": "."
+		}
+	]
+}
